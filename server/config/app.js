@@ -1,3 +1,9 @@
+/*   File name: books.js
+     Created By: Arpit Kamal
+     Student ID: 301152116
+     WebApp Name: Favourite Book MidTerm
+*/
+
 // installed 3rd party packages
 let createError = require('http-errors');
 let express = require('express');
