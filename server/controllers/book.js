@@ -1,3 +1,8 @@
+/*   File name: book.js
+     Created By: Arpit Kamal
+     Student ID: 301152116
+     WebApp Name:  Book MidTerm
+*/
 let express = require('express');
 let router = express.Router();
 let mongoose = require('mongoose');

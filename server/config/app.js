@@ -1,7 +1,7 @@
-/*   File name: books.js
+/*   File name: app.js
      Created By: Arpit Kamal
      Student ID: 301152116
-     WebApp Name: Favourite Book MidTerm
+     WebApp Name: Book MidTerm
 */
 
 // installed 3rd party packages

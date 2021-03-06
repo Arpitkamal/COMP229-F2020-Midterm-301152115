@@ -1,3 +1,9 @@
+/*   File name: db.js
+     Created By: Arpit Kamal
+     Student ID: 301152116
+     WebApp Name:  Book MidTerm
+*/
+
 module.exports = 
 {
     //"URI": "mongodb://localhost/book_store"
